@@ -1,4 +1,4 @@
 language: java
 jdk: oraclejdk14
 script:
-  javac ./src/Hello.java && cd src && ls && cd .. && make
+  javac ./src/Hello.java && make
