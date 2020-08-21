@@ -1,2 +1,2 @@
 Hello:
-	java Hello
+	java -cp src/ Hello
