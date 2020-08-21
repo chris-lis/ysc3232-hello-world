@@ -1,2 +1,2 @@
-run:
-	@java src/Hello
+Hello:
+	java ./src/Hello
