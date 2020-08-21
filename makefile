@@ -1,2 +1,2 @@
 Hello:
-	java ./src/Hello
+	java Hello
